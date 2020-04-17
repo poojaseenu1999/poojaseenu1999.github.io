@@ -1,0 +1,26 @@
+
+body{
+	
+   background-image: url(https://i.pinimg.com/originals/71/ff/b4/71ffb47ffd504078956bc68966b485f5.jpg);
+   background-size: cover;k
+
+}
+h1{
+	margin-top: 5px;
+
+	color: red;
+	  font-family: 'Comic Neue', cursive;
+	  text-align: center;
+}
+hr {
+	color: blue;
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+.btn-primary:hover
+{
+box-shadow: 3px ;
+background-color: black;
+}
+
